@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+
+# Database
+*.db
+
+# CSV and PDF export files
+*.csv
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# Icon file
+*.ico
+
+# Windows-specific files
+Thumbs.db
